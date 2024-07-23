@@ -1,2 +1,2 @@
 # computing_bytes
-repo for exercises and info from watching MIT's 2020 lecture series for The Missing Semester of Your CS Education
+GitHub repo for exercises and session notes after watching MIT's 2020 lecture series [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
